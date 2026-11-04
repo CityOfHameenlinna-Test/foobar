@@ -1,2 +1,3 @@
 # foobar
-Only for testing purposes
+Nothing interesting here really.
+This repo is meant to serve various testing purposes.
